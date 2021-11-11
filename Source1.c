@@ -2,9 +2,9 @@
 
 int main()
 {
-	printf("Hello");
-	printf("Hello Sharon");
-	printf("our project");
-	printf("Judy");
-	printf("our project2");
+	printf("Hello\n");
+	printf("Hello Sharon\n");
+	printf("our project\n");
+	printf("Judy\n");
+	printf("our project2\n");
 }
